@@ -45,8 +45,7 @@ registerArtifact(
   "Flickers with unstable heat.",
   "Slightly scorched.",
   "Spirits of flame, awaken."
-);
 
-## Philosophy
+## Example: Registering an artifact
 This registry is meant to feel like a tiny Mechanicus archive living on-chain:
 simple, open, and shaped entirely by the community.
